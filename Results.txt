@@ -1,0 +1,9 @@
+C:\Workspace\Title_Validation_PF>java -jar ./target/Title_Validation_PF-1.1-jar-
+with-dependencies.jar
+Test Case ID:           TC-001.01
+URL:                    http://www.learn2test.net
+Title Expected:         learn2test.net
+Title Actual:           learn2test.net
+Test Case Result:       PASSED
+
+C:\Workspace\Title_Validation_PF>
